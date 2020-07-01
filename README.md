@@ -1,2 +1,3 @@
-# My-Leetcode-Solutions
-in C++ / Python 3
+# Leetcode-Solutions
+A record of my leetcode journey
+Solutions are mainly in C++ and Python.
